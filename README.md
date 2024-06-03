@@ -12,7 +12,7 @@ Experienced research engineer and data scientist with a strong background in air
 
 - Programming Languages: Python, C++, Go, SQL, embedded platforms STM32, Qualcomm AI Hub
 - Cloud Platforms: AWS (Certified Solutions Architect & Developer), GCP, Oracle Cloud
-- Machine Learning: Time-series forecasting, Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Weather forecasting
+- Machine Learning: Time-series forecasting, Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Weather forecasting (WRF, WRF-Chem), CAMS and GFS models
 - Data Engineering: Apache Airflow, Clickhouse, Databricks, Snowflake, BigQuery
 - DevOps: Terraform, Github Workflow, GitLab pipelines, CI/CD
 
